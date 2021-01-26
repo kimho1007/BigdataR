@@ -1,3 +1,4 @@
+"frame, action, id, x, y, w, h"
 "0,lie/sleep,1,180,257,303,298"
 "0,lie/sleep,2,560,126,308,184"
 "0,lie/sleep,3,879,41,258,109"
